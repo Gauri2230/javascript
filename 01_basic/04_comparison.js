@@ -1,0 +1,23 @@
+console.log(2 > 1);
+console.log(2 >= 1);
+console.log(2 == 1);
+console.log(2 < 1);
+console.log(2 <= 1);
+console.log(2 != 1);
+
+
+console.log(null > 1);
+console.log(null >= 1);
+console.log(null <= 1);
+console.log(null < 1);
+console.log(null == 1);
+
+console.log(undefined > 1);
+console.log(undefined >= 1);
+console.log(undefined <= 1);
+console.log(undefined < 1);
+console.log(undefined == 1);
+
+
+//=== strict check (value + data type)
+console.log("2" === 1);
