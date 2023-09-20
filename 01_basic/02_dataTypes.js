@@ -27,6 +27,7 @@ symbol=>unique
 object
 */
 
+/*
 let name = "Gauri"
 let age = 23
 let isLoggedIn = false
@@ -68,3 +69,5 @@ const myfunction = function(){
 console.log(typeof flowers);
 console.log(typeof myInfo);
 console.log(typeof myfunction);
+*/
+
