@@ -52,18 +52,18 @@ console.log(typeof bigNumber);
 console.log(id === anId);
 
 
-const flowers = ["Rose", "Lotus", "Jui"] ;  //Array
+const flowers = ["Rose", "Lotus", "Jui"] ;  //Array=>object
 
 let myInfo = 
 {
     name:"Gauri",
     age:23,
     city:"Devgad"
-}  ;                               //Object
+}  ;                               //Object=>object
 
 const myfunction = function(){
     console.log("Hello World");
-}                                 //function
+}                                 //function=>objectFunction
 
 console.log(typeof flowers);
 console.log(typeof myInfo);
