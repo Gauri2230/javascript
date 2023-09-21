@@ -25,4 +25,8 @@ console.log(hundreds.toLocaleString("en-IN"));
 // console.log(Math.pow(2,2));
 // console.log(Math.min(2, 8, 1, 65));
 // console.log(Math.max(2, 8, 1, 65));
-console.log(Math.random());
+//console.log(Math.random());                  //give values in range of 0-1
+
+const min =20
+const max = 20
+console.log(Math.floor(Math.random()*(max - min + 1))+ min); 
